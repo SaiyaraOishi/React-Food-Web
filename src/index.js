@@ -15,3 +15,6 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+//API used from
+////https://developer.edamam.com/edamam-docs-recipe-api-v1
